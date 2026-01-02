@@ -7,6 +7,16 @@ It demonstrates file handling, image generation, and QR code creation.
 
 ---
 
+## ✨ Features
+
+- Generate QR codes for text, URLs, and Wi-Fi credentials
+- Save QR codes as PNG images
+- Simple and beginner-friendly Python script
+- Easily customizable input data
+
+
+---
+
 ## 📂 Project Structure
 
 ```
@@ -75,6 +85,30 @@ generate_qr(wifi_data,'wifi_qr.png')
 
 
 ```
+
+---
+
+## 🖼️ Example Output
+
+![QR Code Example](qr_codes/hello_qr.png)
+
+---
+
+## 📌 Use Cases
+
+- Sharing URLs quickly
+- Generating Wi-Fi QR codes for guests
+- Encoding short messages
+- Learning basic image generation in Python
+
+---
+
+## 🚀 Future Improvements
+
+- Add GUI support
+- Allow color customization for QR codes
+- Accept user input from terminal
+- Batch QR code generation
 
 
 
