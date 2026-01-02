@@ -48,7 +48,7 @@ pip install -r requirements.txt
 
 ---
 
-##⚡ How to Run
+## ⚡ How to Run
 
 1.Open terminal in the project folder.
 
@@ -68,7 +68,7 @@ python qr_code_generator.py
 
 ---
 
-##🔧 Customization
+## 🔧 Customization
 
 -Change the data in generate_qr() function:
 
